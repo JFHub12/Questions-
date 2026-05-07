@@ -1,0 +1,6 @@
+{
+  "name": "Flask Question API",
+  "description": "A simple Flask-inspired API for retrieving quiz questions with a React frontend to explore them.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
